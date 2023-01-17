@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kmsk99/nwitter/static/css/main.ff37f1a6.css",
+    "main.js": "/kmsk99/nwitter/static/js/main.18b22d5a.js",
+    "index.html": "/kmsk99/nwitter/index.html",
+    "main.ff37f1a6.css.map": "/kmsk99/nwitter/static/css/main.ff37f1a6.css.map",
+    "main.18b22d5a.js.map": "/kmsk99/nwitter/static/js/main.18b22d5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff37f1a6.css",
+    "static/js/main.18b22d5a.js"
+  ]
+}
